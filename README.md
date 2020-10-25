@@ -5,8 +5,8 @@ frequentist inference. In Part B, you'll apply those implementations to a real-w
 
 Jupyter notebooks:
 
-Part A: [./Frequentist_Inference_Case_Study-Part-A_3.ipynb](./Frequentist_Inference_Case_Study-Part-A_3.ipynb).
-Part B: [./Frequentist_Inference_Case_Study-Part-B_2.ipynb][./Frequentist_Inference_Case_Study-Part-B_2.ipynb]
+* Part A: [./Frequentist_Inference_Case_Study-Part-A_3.ipynb](./Frequentist_Inference_Case_Study-Part-A_3.ipynb)
+* Part B: [./Frequentist_Inference_Case_Study-Part-B_2.ipynb](./Frequentist_Inference_Case_Study-Part-B_2.ipynb)
 
 Covered topics:
 
